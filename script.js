@@ -1,5 +1,5 @@
 // Email que recibe las solicitudes del formulario. Cámbialo por el tuyo.
-const CONTACT_EMAIL = "hola@hazmiweb.me";
+const CONTACT_EMAIL = "hazmiweb.contacto@gmail.com";
 
 const reduceMotion = matchMedia("(prefers-reduced-motion: reduce)").matches;
 const canAnimate = !reduceMotion && window.gsap && window.ScrollTrigger;
